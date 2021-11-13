@@ -1,0 +1,7 @@
+{
+  "__": "This file must be injected for shared storage and other IPC to work",
+  "is_enabled": false,
+  "version": 1,
+  "app_ids": [],
+  "rules": []
+}
